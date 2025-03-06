@@ -7,4 +7,8 @@ let value = a + b + c;
 console.log("a: ", a);
 console.log("b: ", b);
 console.log("c: ", c);
-console.log("value: ", value);
+/**
+ * Modified: Made the output more appealing.
+ * Editor: Jaswant Ishit Khosla, Software Enginner at Google.
+ */
+console.log("value is equal to ", value);
