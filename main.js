@@ -6,5 +6,5 @@ let value = a + b + c;
 
 console.log("a: ", a);
 console.log("b: ", b);
-console.log("b: ", c);
+console.log("c: ", c);
 console.log("value: ", value);
